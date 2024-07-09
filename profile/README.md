@@ -1,21 +1,7 @@
-## Woking Agreement 
-<b>"Advocate for and deliver exceptional customer-centric experiences"</b>
-
-<b>Golden Rule</b><br/>
-* Treat people like you want to be treated.
-
-<b>Communicate clearly and often</b><br/>
-* Acknowledge and ask clarifying questions.
-
-<b>Support each other</b><br/>
-* We have got each other’s back and provide a safe space for all voices to be heard.
-
-<b>Be intentional in all that we do</b><br/>
-* Pause, think and follow through.
-
-<b>Find new ways to solve problems and acquire new skills while doing it.</b><br/>
-
-<b>Have fun while you learn something new!</b><br/>
+> [!IMPORTANT]
+> We’re a small engineering team who in partnership with our external vendors, UX designers and Product owners are building and supporting all our eCommerce technology solutions while we  focus on the next generation of our eCommerce platform. 
+> 
+> We value insight driven innovation, collaboration and feedback. 
 
 
 ##
