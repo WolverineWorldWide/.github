@@ -1,12 +1,31 @@
 ## Hi there 👋
+Welcome
 
-<!--
+> [!IMPORTANT]  
+> We’re a small engineering team who in partnership with our external vendors, UX designers and Product owners are building and supporting all our eCommerce technology solutions while we focus on the next generation of our eCommerce platform.
+> 
+> We value insight driven innovation, collaboration and feedback.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Woking Agreement 
+<b>"Advocate for and deliver exceptional customer-centric experiences"</b>
+
+<b>Golden Rule</b><br/>
+* Treat people like you want to be treated.
+
+<b>Communicate clearly and often</b><br/>
+* Acknowledge and ask clarifying questions.
+
+<b>Support each other</b><br/>
+* We have got each other’s back and provide a safe space for all voices to be heard.
+
+<b>Be intentional in all that we do</b><br/>
+* Pause, think and follow through.
+
+<b>Find new ways to solve problems and acquire new skills while doing it.</b><br/>
+
+<b>Have fun while you learn something new!</b><br/>
+
+
+##
+[<img src="https://res.cloudinary.com/teepublic/image/private/s--oxQyZcLK--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1589446439/production/designs/10139658_0.jpg" width="200" height="200"/>](https://wwwinc.atlassian.net/wiki/spaces/EE/overview?homepageId=3375333606)
